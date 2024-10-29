@@ -1,0 +1,445 @@
+# Copyright 2009-2015 Rocketgenius, Inc.
+msgid ""
+msgstr ""
+"Project-Id-Version: Gravity Forms Agile CRM Add-On 1.0.7\n"
+"Report-Msgid-Bugs-To: http://www.gravtiyhelp.com\n"
+"POT-Creation-Date: 2015-11-27 16:10:33+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Rocketgenius <customerservice@rocketgenius.com>\n"
+"Language-Team: Rocketgenius <customerservice@rocketgenius.com>\n"
+"X-Generator: Gravity Forms Build Server\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"Project-Id-Version: gravityformsagilecrm\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Textdomain-Support: yes\n"
+
+#: class-gf-agilecrm.php:55
+msgid "Create Agile CRM object only when payment is received."
+msgstr ""
+
+#: class-gf-agilecrm.php:115
+msgid "Account URL"
+msgstr ""
+
+#: class-gf-agilecrm.php:123 class-gf-agilecrm.php:516
+#: class-gf-agilecrm.php:546
+msgid "Email Address"
+msgstr ""
+
+#: class-gf-agilecrm.php:130
+msgid "API Key"
+msgstr ""
+
+#: class-gf-agilecrm.php:138
+msgid "Analytics Tracking"
+msgstr ""
+
+#: class-gf-agilecrm.php:139
+msgid ""
+"Agile CRM Javascript analytics tracking allows you to track page views on "
+"your website. To use Agile CRM analytics, enable the analytics tracking "
+"below and provide your Javascript API key."
+msgstr ""
+
+#: class-gf-agilecrm.php:143
+msgid "Enable Analytics Tracking"
+msgstr ""
+
+#: class-gf-agilecrm.php:149
+msgid "Enable Javascript Analytics Tracking"
+msgstr ""
+
+#: class-gf-agilecrm.php:155
+msgid "Javascript API Key"
+msgstr ""
+
+#: class-gf-agilecrm.php:163
+msgid "Agile CRM settings have been updated."
+msgstr ""
+
+#: class-gf-agilecrm.php:182
+msgid ""
+"Agile CRM is a contact management tool makes it easy to track cases, "
+"contacts and deals. Use Gravity Forms to collect customer information and "
+"automatically add them to your Agile CRM account. If you don't have a Agile "
+"CRM account, you can %1$s sign up for one here.%2$s"
+msgstr ""
+
+#: class-gf-agilecrm.php:190
+msgid ""
+"Gravity Forms Agile CRM Add-On requires your account URL, account email "
+"address and API key, which can be found on the API & Analytics page in the "
+"Admin Settings section."
+msgstr ""
+
+#: class-gf-agilecrm.php:213
+msgid "Feed Name"
+msgstr ""
+
+#: class-gf-agilecrm.php:217 class-gf-agilecrm.php:694
+msgid "Name"
+msgstr ""
+
+#: class-gf-agilecrm.php:217
+msgid "Enter a feed name to uniquely identify this setup."
+msgstr ""
+
+#: class-gf-agilecrm.php:221 class-gf-agilecrm.php:695
+msgid "Action"
+msgstr ""
+
+#: class-gf-agilecrm.php:228 class-gf-agilecrm.php:712
+msgid "Create New Contact"
+msgstr ""
+
+#: class-gf-agilecrm.php:232 class-gf-agilecrm.php:714
+msgid "Create New Task"
+msgstr ""
+
+#: class-gf-agilecrm.php:241
+msgid "Contact Details"
+msgstr ""
+
+#: class-gf-agilecrm.php:246 class-gf-agilecrm.php:249
+msgid "Map Fields"
+msgstr ""
+
+#: class-gf-agilecrm.php:249
+msgid ""
+"Select which Gravity Form fields pair with their respective Agile CRM "
+"fields."
+msgstr ""
+
+#: class-gf-agilecrm.php:259
+msgid "Tags"
+msgstr ""
+
+#: class-gf-agilecrm.php:265
+msgid "Update Contact"
+msgstr ""
+
+#: class-gf-agilecrm.php:269
+msgid "Update Contact if already exists"
+msgstr ""
+
+#: class-gf-agilecrm.php:275
+msgid "and replace existing data"
+msgstr ""
+
+#: class-gf-agilecrm.php:279
+msgid "and append new data"
+msgstr ""
+
+#: class-gf-agilecrm.php:290
+msgid "Task Details"
+msgstr ""
+
+#: class-gf-agilecrm.php:298
+msgid "Subject"
+msgstr ""
+
+#: class-gf-agilecrm.php:305
+msgid "Days Until Due"
+msgstr ""
+
+#: class-gf-agilecrm.php:311
+msgid "Priority"
+msgstr ""
+
+#: class-gf-agilecrm.php:315
+msgid "High"
+msgstr ""
+
+#: class-gf-agilecrm.php:319
+msgid "Normal"
+msgstr ""
+
+#: class-gf-agilecrm.php:323
+msgid "Low"
+msgstr ""
+
+#: class-gf-agilecrm.php:331
+msgid "Status"
+msgstr ""
+
+#: class-gf-agilecrm.php:334
+msgid "Yet To Start"
+msgstr ""
+
+#: class-gf-agilecrm.php:338
+msgid "In Progress"
+msgstr ""
+
+#: class-gf-agilecrm.php:342
+msgid "Completed"
+msgstr ""
+
+#: class-gf-agilecrm.php:350
+msgid "Type"
+msgstr ""
+
+#: class-gf-agilecrm.php:353
+msgid "Call"
+msgstr ""
+
+#: class-gf-agilecrm.php:357
+msgid "Email"
+msgstr ""
+
+#: class-gf-agilecrm.php:361
+msgid "Follow Up"
+msgstr ""
+
+#: class-gf-agilecrm.php:365
+msgid "Meeting"
+msgstr ""
+
+#: class-gf-agilecrm.php:369
+msgid "Milestone"
+msgstr ""
+
+#: class-gf-agilecrm.php:373
+msgid "Send"
+msgstr ""
+
+#: class-gf-agilecrm.php:377
+msgid "Tweet"
+msgstr ""
+
+#: class-gf-agilecrm.php:381 class-gf-agilecrm.php:582
+msgid "Other"
+msgstr ""
+
+#: class-gf-agilecrm.php:388
+msgid "Create Note"
+msgstr ""
+
+#: class-gf-agilecrm.php:394
+msgid "Create Note for Task"
+msgstr ""
+
+#: class-gf-agilecrm.php:400
+msgid "Note Subject"
+msgstr ""
+
+#: class-gf-agilecrm.php:408
+msgid "Note Description"
+msgstr ""
+
+#: class-gf-agilecrm.php:416
+msgid "Assign To"
+msgstr ""
+
+#: class-gf-agilecrm.php:422
+msgid "Assign Task to Created Contact"
+msgstr ""
+
+#: class-gf-agilecrm.php:431
+msgid "Feed Conditional Logic"
+msgstr ""
+
+#: class-gf-agilecrm.php:437 class-gf-agilecrm.php:440
+msgid "Conditional Logic"
+msgstr ""
+
+#: class-gf-agilecrm.php:438
+msgid "Enable"
+msgstr ""
+
+#: class-gf-agilecrm.php:439
+msgid "Export to Agile CRM if"
+msgstr ""
+
+#: class-gf-agilecrm.php:440
+msgid ""
+"When conditional logic is enabled, form submissions will only be exported "
+"to Agile CRM when the condition is met. When disabled, all form submissions "
+"will be posted."
+msgstr ""
+
+#: class-gf-agilecrm.php:486
+msgid "This field must be numeric."
+msgstr ""
+
+#: class-gf-agilecrm.php:502
+msgid "First Name"
+msgstr ""
+
+#: class-gf-agilecrm.php:509
+msgid "Last Name"
+msgstr ""
+
+#: class-gf-agilecrm.php:535
+msgid "Choose a Field"
+msgstr ""
+
+#: class-gf-agilecrm.php:539
+msgid "Job Title"
+msgstr ""
+
+#: class-gf-agilecrm.php:543
+msgid "Company"
+msgstr ""
+
+#: class-gf-agilecrm.php:549 class-gf-agilecrm.php:562
+msgid "Work"
+msgstr ""
+
+#: class-gf-agilecrm.php:553
+msgid "Personal"
+msgstr ""
+
+#: class-gf-agilecrm.php:559
+msgid "Phone Number"
+msgstr ""
+
+#: class-gf-agilecrm.php:566 class-gf-agilecrm.php:591
+msgid "Home"
+msgstr ""
+
+#: class-gf-agilecrm.php:570
+msgid "Mobile"
+msgstr ""
+
+#: class-gf-agilecrm.php:574
+msgid "Home Fax"
+msgstr ""
+
+#: class-gf-agilecrm.php:578
+msgid "Work Fax"
+msgstr ""
+
+#: class-gf-agilecrm.php:588
+msgid "Address"
+msgstr ""
+
+#: class-gf-agilecrm.php:595
+msgid "Postal"
+msgstr ""
+
+#: class-gf-agilecrm.php:599
+msgid "Office"
+msgstr ""
+
+#: class-gf-agilecrm.php:605
+msgid "Website"
+msgstr ""
+
+#: class-gf-agilecrm.php:608
+msgid "URL"
+msgstr ""
+
+#: class-gf-agilecrm.php:612
+msgid "Skype"
+msgstr ""
+
+#: class-gf-agilecrm.php:616
+msgid "Twitter"
+msgstr ""
+
+#: class-gf-agilecrm.php:620
+msgid "LinkedIn"
+msgstr ""
+
+#: class-gf-agilecrm.php:624
+msgid "Facebook"
+msgstr ""
+
+#: class-gf-agilecrm.php:628
+msgid "Xing"
+msgstr ""
+
+#: class-gf-agilecrm.php:632
+msgid "Feed"
+msgstr ""
+
+#: class-gf-agilecrm.php:636
+msgid "Google Plus"
+msgstr ""
+
+#: class-gf-agilecrm.php:640
+msgid "Flickr"
+msgstr ""
+
+#: class-gf-agilecrm.php:644
+msgid "GitHub"
+msgstr ""
+
+#: class-gf-agilecrm.php:648
+msgid "YouTube"
+msgstr ""
+
+#: class-gf-agilecrm.php:655
+msgid "Add a Custom Field"
+msgstr ""
+
+#: class-gf-agilecrm.php:710
+msgid "Create New Contact & New Task"
+msgstr ""
+
+#: class-gf-agilecrm.php:735
+msgid "Feed was not processed because API was not initialized."
+msgstr ""
+
+#: class-gf-agilecrm.php:795 class-gf-agilecrm.php:1011
+msgid "Contact could not be created as first and/or last name were not provided."
+msgstr ""
+
+#: class-gf-agilecrm.php:803 class-gf-agilecrm.php:1019
+msgid "Contact could not be created as email address was not provided."
+msgstr ""
+
+#: class-gf-agilecrm.php:869
+msgid "Contact could not be created. %s"
+msgstr ""
+
+#: class-gf-agilecrm.php:904
+msgid "Task could not be created as subject was not provided."
+msgstr ""
+
+#: class-gf-agilecrm.php:924
+msgid ""
+"Note could not be created for task as subject and/or description were not "
+"provided."
+msgstr ""
+
+#: class-gf-agilecrm.php:975
+msgid "Task could not be created. %s"
+msgstr ""
+
+#: class-gf-agilecrm.php:1097
+msgid "Contact could not be updated. %s"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Gravity Forms Agile CRM Add-On"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.gravityforms.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Integrates Gravity Forms with Agile CRM allowing form submissions to be "
+"automatically sent to your Agile CRM account."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "rocketgenius"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.rocketgenius.com"
+msgstr ""

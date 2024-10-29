@@ -1,0 +1,12 @@
+#tab_gravityformsadvisorsassistantcrm h3 span i.fa-cogs {
+	width:26px; /*width of your image*/
+	height:26px; /*height of your image*/
+	background-image:url('../images/aa_logo.png');
+	margin:0; /* If you want no margin */
+	padding:0; /*if your want to padding */
+	font-family: initial;
+}
+
+i.fa-cogs:before {
+	content: "";
+}
